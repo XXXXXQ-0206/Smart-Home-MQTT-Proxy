@@ -16,7 +16,7 @@
   "author": "XXXXXQ-0206",
   "license": "MIT",
   "dependencies": {
-    "mqtt": "^5.13.1",
+    "mqtt": "^5.16.0",
     "ws": "^8.21.0"
   },
   "overrides": {
